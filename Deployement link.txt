@@ -1,0 +1,5 @@
+Deployed the model on AWS ec2 instance
+
+We have stoped the instance
+
+http://ec2-3-129-6-117.us-east-2.compute.amazonaws.com:8080/

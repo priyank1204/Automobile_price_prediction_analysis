@@ -1,0 +1,596 @@
+2020-09-01/12:19:41		starting user interface
+2020-09-01/12:19:41		setting allowed files extensions for file input
+2020-09-01/12:19:41		initializing flask app
+2020-09-01/12:19:42		Loading the best model for predictions
+2020-09-01/12:19:42		ending of the flask app
+2020-09-01/12:19:45		starting user interface
+2020-09-01/12:19:45		setting allowed files extensions for file input
+2020-09-01/12:19:45		initializing flask app
+2020-09-01/12:19:45		Loading the best model for predictions
+2020-09-01/12:19:46		ending of the flask app
+2020-09-01/12:19:47		Entering to the first template 
+2020-09-01/12:19:50		Now th user will chooose for input type
+2020-09-01/12:19:50		user has choosen for file upload predictions or bulk predictions
+2020-09-01/12:20:12		starting user interface
+2020-09-01/12:20:12		setting allowed files extensions for file input
+2020-09-01/12:20:12		initializing flask app
+2020-09-01/12:20:12		Loading the best model for predictions
+2020-09-01/12:20:12		ending of the flask app
+2020-09-01/12:20:15		Entering to the first template 
+2020-09-01/12:20:18		Now th user will chooose for input type
+2020-09-01/12:20:18		user has choosen for file upload predictions or bulk predictions
+2020-09-01/12:20:27		Now input file from user
+2020-09-01/12:20:27		looks like an error occured in predicting results
+2020-09-01/12:21:03		starting user interface
+2020-09-01/12:21:03		setting allowed files extensions for file input
+2020-09-01/12:21:03		initializing flask app
+2020-09-01/12:21:03		Loading the best model for predictions
+2020-09-01/12:21:04		ending of the flask app
+2020-09-01/12:21:05		Entering to the first template 
+2020-09-01/12:21:07		Now th user will chooose for input type
+2020-09-01/12:21:07		user has choosen for file upload predictions or bulk predictions
+2020-09-01/12:21:11		checking if file is in correct extension
+2020-09-01/12:21:11		Now input file from user
+2020-09-01/12:21:11		Everthings fine ---- prediction starts for file
+2020-09-01/12:21:13		Model retrained succesfully
+2020-09-01/12:21:19		Entering to the first template 
+2020-09-01/12:21:24		checking if file is in correct extension
+2020-09-01/12:21:24		model retraining phase entering
+2020-09-01/12:21:24		everythings fine --- model retrainig starts
+2020-09-01/12:23:18		model retrained succesfully
+2020-09-01/13:36:12		checking if file is in correct extension
+2020-09-01/13:36:12		model retraining phase entering
+2020-09-01/13:36:12		everythings fine --- model retrainig starts
+2020-09-01/13:36:12		ooops liiks liuke ther eiis some error in model retraining---------------try again after fixing the error
+2020-09-01/13:36:29		starting user interface
+2020-09-01/13:36:29		setting allowed files extensions for file input
+2020-09-01/13:36:29		initializing flask app
+2020-09-01/13:36:29		Loading the best model for predictions
+2020-09-01/13:36:29		ending of the flask app
+2020-09-01/13:36:32		starting user interface
+2020-09-01/13:36:32		setting allowed files extensions for file input
+2020-09-01/13:36:32		initializing flask app
+2020-09-01/13:36:32		Loading the best model for predictions
+2020-09-01/13:36:33		ending of the flask app
+2020-09-01/13:36:34		Entering to the first template 
+2020-09-01/13:36:46		checking if file is in correct extension
+2020-09-01/13:36:46		model retraining phase entering
+2020-09-01/13:36:46		everythings fine --- model retrainig starts
+2020-09-01/13:39:19		model retrained succesfully
+2020-09-01/13:43:18		starting user interface
+2020-09-01/13:43:18		setting allowed files extensions for file input
+2020-09-01/13:43:18		initializing flask app
+2020-09-01/13:43:19		Loading the best model for predictions
+2020-09-01/13:43:19		ending of the flask app
+2020-09-01/13:43:22		starting user interface
+2020-09-01/13:43:22		setting allowed files extensions for file input
+2020-09-01/13:43:22		initializing flask app
+2020-09-01/13:43:22		Loading the best model for predictions
+2020-09-01/13:43:22		ending of the flask app
+2020-09-01/13:47:20		Entering to the first template 
+2020-09-01/14:01:52		starting user interface
+2020-09-01/14:01:52		setting allowed files extensions for file input
+2020-09-01/14:01:52		initializing flask app
+2020-09-01/14:01:52		Loading the best model for predictions
+2020-09-01/14:01:52		ending of the flask app
+2020-09-01/14:01:54		starting user interface
+2020-09-01/14:01:54		setting allowed files extensions for file input
+2020-09-01/14:01:54		initializing flask app
+2020-09-01/14:01:55		Loading the best model for predictions
+2020-09-01/14:01:55		ending of the flask app
+2020-09-01/14:02:02		Entering to the first template 
+2020-09-01/14:02:22		Now th user will chooose for input type
+2020-09-01/14:02:22		user has choosen for file upload predictions or bulk predictions
+2020-09-01/14:02:28		checking if file is in correct extension
+2020-09-01/14:02:28		Now input file from user
+2020-09-01/14:02:28		Everthings fine ---- prediction starts for file
+2020-09-01/14:02:28		Model retrained succesfully
+2020-09-01/14:03:54		starting user interface
+2020-09-01/14:03:54		setting allowed files extensions for file input
+2020-09-01/14:03:54		initializing flask app
+2020-09-01/14:03:54		Loading the best model for predictions
+2020-09-01/14:03:55		ending of the flask app
+2020-09-01/14:03:57		starting user interface
+2020-09-01/14:03:57		setting allowed files extensions for file input
+2020-09-01/14:03:57		initializing flask app
+2020-09-01/14:03:57		Loading the best model for predictions
+2020-09-01/14:03:57		ending of the flask app
+2020-09-01/14:04:06		Entering to the first template 
+2020-09-01/14:04:13		Now th user will chooose for input type
+2020-09-01/14:04:13		user has choosen for file upload predictions or bulk predictions
+2020-09-01/14:04:19		checking if file is in correct extension
+2020-09-01/14:04:19		Now input file from user
+2020-09-01/14:04:19		Everthings fine ---- prediction starts for file
+2020-09-01/14:04:19		Model retrained succesfully
+2020-09-01/14:06:01		checking if file is in correct extension
+2020-09-01/14:06:01		Now input file from user
+2020-09-01/14:06:01		Everthings fine ---- prediction starts for file
+2020-09-01/14:06:02		Model retrained succesfully
+2020-09-01/14:06:10		starting user interface
+2020-09-01/14:06:10		setting allowed files extensions for file input
+2020-09-01/14:06:10		initializing flask app
+2020-09-01/14:06:10		Loading the best model for predictions
+2020-09-01/14:06:10		ending of the flask app
+2020-09-01/14:06:12		starting user interface
+2020-09-01/14:06:12		setting allowed files extensions for file input
+2020-09-01/14:06:12		initializing flask app
+2020-09-01/14:06:12		Loading the best model for predictions
+2020-09-01/14:06:12		ending of the flask app
+2020-09-01/14:06:14		Entering to the first template 
+2020-09-01/14:06:16		Now th user will chooose for input type
+2020-09-01/14:06:16		user has choosen for file upload predictions or bulk predictions
+2020-09-01/14:06:24		checking if file is in correct extension
+2020-09-01/14:06:24		Now input file from user
+2020-09-01/14:06:24		Everthings fine ---- prediction starts for file
+2020-09-01/14:06:24		Model retrained succesfully
+2020-09-01/14:08:58		starting user interface
+2020-09-01/14:08:58		setting allowed files extensions for file input
+2020-09-01/14:08:58		initializing flask app
+2020-09-01/14:08:58		Loading the best model for predictions
+2020-09-01/14:08:59		ending of the flask app
+2020-09-01/14:09:00		starting user interface
+2020-09-01/14:09:00		setting allowed files extensions for file input
+2020-09-01/14:09:00		initializing flask app
+2020-09-01/14:09:01		Loading the best model for predictions
+2020-09-01/14:09:01		ending of the flask app
+2020-09-01/14:09:02		Entering to the first template 
+2020-09-01/14:09:04		Now th user will chooose for input type
+2020-09-01/14:09:04		user has choosen for file upload predictions or bulk predictions
+2020-09-01/14:09:08		checking if file is in correct extension
+2020-09-01/14:09:08		Now input file from user
+2020-09-01/14:09:08		Everthings fine ---- prediction starts for file
+2020-09-01/14:09:09		Model retrained succesfully
+2020-09-01/14:12:17		starting user interface
+2020-09-01/14:12:17		setting allowed files extensions for file input
+2020-09-01/14:12:17		initializing flask app
+2020-09-01/14:12:18		Loading the best model for predictions
+2020-09-01/14:12:18		ending of the flask app
+2020-09-01/14:12:20		starting user interface
+2020-09-01/14:12:20		setting allowed files extensions for file input
+2020-09-01/14:12:20		initializing flask app
+2020-09-01/14:12:20		Loading the best model for predictions
+2020-09-01/14:12:21		ending of the flask app
+2020-09-01/14:12:27		Entering to the first template 
+2020-09-01/14:12:32		Now th user will chooose for input type
+2020-09-01/14:12:32		user has choosen for file upload predictions or bulk predictions
+2020-09-01/14:12:37		checking if file is in correct extension
+2020-09-01/14:12:37		Now input file from user
+2020-09-01/14:12:37		Everthings fine ---- prediction starts for file
+2020-09-01/14:12:38		Model retrained succesfully
+2020-09-01/14:14:11		starting user interface
+2020-09-01/14:14:11		setting allowed files extensions for file input
+2020-09-01/14:14:11		initializing flask app
+2020-09-01/14:14:11		Loading the best model for predictions
+2020-09-01/14:14:11		ending of the flask app
+2020-09-01/14:14:13		starting user interface
+2020-09-01/14:14:13		setting allowed files extensions for file input
+2020-09-01/14:14:13		initializing flask app
+2020-09-01/14:14:13		Loading the best model for predictions
+2020-09-01/14:14:13		ending of the flask app
+2020-09-01/14:14:14		Entering to the first template 
+2020-09-01/14:14:17		Now th user will chooose for input type
+2020-09-01/14:14:17		user has choosen for file upload predictions or bulk predictions
+2020-09-01/14:14:22		checking if file is in correct extension
+2020-09-01/14:14:22		Now input file from user
+2020-09-01/14:14:22		Everthings fine ---- prediction starts for file
+2020-09-01/14:14:23		Model retrained succesfully
+2020-09-01/14:16:23		starting user interface
+2020-09-01/14:16:23		setting allowed files extensions for file input
+2020-09-01/14:16:23		initializing flask app
+2020-09-01/14:16:24		Loading the best model for predictions
+2020-09-01/14:16:24		ending of the flask app
+2020-09-01/14:16:26		starting user interface
+2020-09-01/14:16:26		setting allowed files extensions for file input
+2020-09-01/14:16:26		initializing flask app
+2020-09-01/14:16:26		Loading the best model for predictions
+2020-09-01/14:16:26		ending of the flask app
+2020-09-01/14:16:27		Entering to the first template 
+2020-09-01/14:17:40		Now th user will chooose for input type
+2020-09-01/14:17:40		user has choosen for file upload predictions or bulk predictions
+2020-09-01/14:17:45		checking if file is in correct extension
+2020-09-01/14:17:45		Now input file from user
+2020-09-01/14:17:45		Everthings fine ---- prediction starts for file
+2020-09-01/14:17:46		Model retrained succesfully
+2020-09-01/14:18:53		starting user interface
+2020-09-01/14:18:53		setting allowed files extensions for file input
+2020-09-01/14:18:53		initializing flask app
+2020-09-01/14:18:53		Loading the best model for predictions
+2020-09-01/14:18:54		ending of the flask app
+2020-09-01/14:18:56		starting user interface
+2020-09-01/14:18:56		setting allowed files extensions for file input
+2020-09-01/14:18:56		initializing flask app
+2020-09-01/14:18:56		Loading the best model for predictions
+2020-09-01/14:18:56		ending of the flask app
+2020-09-01/14:19:01		Entering to the first template 
+2020-09-01/14:19:05		Now th user will chooose for input type
+2020-09-01/14:19:05		user has choosen for file upload predictions or bulk predictions
+2020-09-01/14:23:32		starting user interface
+2020-09-01/14:23:32		setting allowed files extensions for file input
+2020-09-01/14:23:32		initializing flask app
+2020-09-01/14:23:32		Loading the best model for predictions
+2020-09-01/14:23:32		ending of the flask app
+2020-09-01/14:23:34		starting user interface
+2020-09-01/14:23:34		setting allowed files extensions for file input
+2020-09-01/14:23:34		initializing flask app
+2020-09-01/14:23:34		Loading the best model for predictions
+2020-09-01/14:23:34		ending of the flask app
+2020-09-01/14:23:53		Entering to the first template 
+2020-09-01/14:25:42		Entering to the first template 
+2020-09-01/14:25:49		Now th user will chooose for input type
+2020-09-01/14:25:49		user has choosen for file upload predictions or bulk predictions
+2020-09-01/14:27:32		checking if file is in correct extension
+2020-09-01/14:27:32		Now input file from user
+2020-09-01/14:27:32		Everthings fine ---- prediction starts for file
+2020-09-01/14:27:33		Model retrained succesfully
+2020-09-01/14:29:04		starting user interface
+2020-09-01/14:29:04		setting allowed files extensions for file input
+2020-09-01/14:29:04		initializing flask app
+2020-09-01/14:29:04		Loading the best model for predictions
+2020-09-01/14:29:05		ending of the flask app
+2020-09-01/14:29:07		starting user interface
+2020-09-01/14:29:07		setting allowed files extensions for file input
+2020-09-01/14:29:07		initializing flask app
+2020-09-01/14:29:07		Loading the best model for predictions
+2020-09-01/14:29:07		ending of the flask app
+2020-09-01/14:29:08		Entering to the first template 
+2020-09-01/14:29:12		Now th user will chooose for input type
+2020-09-01/14:29:12		user has choosen for file upload predictions or bulk predictions
+2020-09-01/14:29:22		checking if file is in correct extension
+2020-09-01/14:29:22		Now input file from user
+2020-09-01/14:29:22		Everthings fine ---- prediction starts for file
+2020-09-01/14:29:22		Model retrained succesfully
+2020-09-01/14:29:44		checking if file is in correct extension
+2020-09-01/14:29:44		Now input file from user
+2020-09-01/14:29:44		Everthings fine ---- prediction starts for file
+2020-09-01/14:29:45		Model retrained succesfully
+2020-09-01/14:30:52		starting user interface
+2020-09-01/14:30:52		setting allowed files extensions for file input
+2020-09-01/14:30:52		initializing flask app
+2020-09-01/14:30:53		Loading the best model for predictions
+2020-09-01/14:30:53		ending of the flask app
+2020-09-01/14:30:55		starting user interface
+2020-09-01/14:30:55		setting allowed files extensions for file input
+2020-09-01/14:30:55		initializing flask app
+2020-09-01/14:30:55		Loading the best model for predictions
+2020-09-01/14:30:55		ending of the flask app
+2020-09-01/14:31:00		Entering to the first template 
+2020-09-01/14:31:02		Now th user will chooose for input type
+2020-09-01/14:31:02		User has choosen for single inputs
+2020-09-01/14:31:22		predictions for single inputs starts
+2020-09-01/14:31:22		Input each feature manually
+2020-09-01/14:31:22		all features ar ecorrectly input
+2020-09-01/14:31:22		prediction for single input starts using saved model
+2020-09-01/14:31:22		we have got the results for the predictions
+2020-09-01/14:31:22		viewing th eoutput on the screen
+2020-09-01/14:53:07		starting user interface
+2020-09-01/14:53:07		setting allowed files extensions for file input
+2020-09-01/14:53:07		initializing flask app
+2020-09-01/14:53:07		Loading the best model for predictions
+2020-09-01/14:53:07		ending of the flask app
+2020-09-01/14:53:09		starting user interface
+2020-09-01/14:53:09		setting allowed files extensions for file input
+2020-09-01/14:53:09		initializing flask app
+2020-09-01/14:53:09		Loading the best model for predictions
+2020-09-01/14:53:10		ending of the flask app
+2020-09-01/14:53:59		Entering to the first template 
+2020-09-01/14:54:02		Now th user will chooose for input type
+2020-09-01/14:54:02		user has choosen for file upload predictions or bulk predictions
+2020-09-01/14:54:07		checking if file is in correct extension
+2020-09-01/14:54:07		Now input file from user
+2020-09-01/14:54:07		Everthings fine ---- prediction starts for file
+2020-09-01/14:54:07		Model retrained succesfully
+2020-09-01/14:54:10		Entering to the first template 
+2020-09-01/14:54:12		Now th user will chooose for input type
+2020-09-01/14:54:12		User has choosen for single inputs
+2020-09-01/14:54:23		predictions for single inputs starts
+2020-09-01/14:54:23		Input each feature manually
+2020-09-01/14:54:23		all features ar ecorrectly input
+2020-09-01/14:54:23		prediction for single input starts using saved model
+2020-09-01/14:54:23		we have got the results for the predictions
+2020-09-01/14:54:23		viewing th eoutput on the screen
+2020-09-01/14:54:26		Entering to the first template 
+2020-09-01/14:54:32		checking if file is in correct extension
+2020-09-01/14:54:32		model retraining phase entering
+2020-09-01/14:54:32		everythings fine --- model retrainig starts
+2020-09-01/14:55:22		model retrained succesfully
+2020-09-01/14:55:42		checking if file is in correct extension
+2020-09-01/14:55:42		model retraining phase entering
+2020-09-01/14:55:42		everythings fine --- model retrainig starts
+2020-09-01/14:56:28		model retrained succesfully
+2020-09-01/14:57:42		checking if file is in correct extension
+2020-09-01/14:57:56		starting user interface
+2020-09-01/14:57:56		setting allowed files extensions for file input
+2020-09-01/14:57:56		initializing flask app
+2020-09-01/14:57:56		Loading the best model for predictions
+2020-09-01/14:57:56		ending of the flask app
+2020-09-01/14:57:58		starting user interface
+2020-09-01/14:57:58		setting allowed files extensions for file input
+2020-09-01/14:57:58		initializing flask app
+2020-09-01/14:57:58		Loading the best model for predictions
+2020-09-01/14:57:58		ending of the flask app
+2020-09-01/14:57:59		Entering to the first template 
+2020-09-01/14:58:18		Entering to the first template 
+2020-09-01/14:59:57		Entering to the first template 
+2020-09-01/15:00:08		Entering to the first template 
+2020-09-01/15:00:23		Entering to the first template 
+2020-09-01/15:00:46		Entering to the first template 
+2020-09-01/15:00:46		Entering to the first template 
+2020-09-01/15:00:47		Entering to the first template 
+2020-09-01/15:01:08		Entering to the first template 
+2020-09-01/15:01:44		Entering to the first template 
+2020-09-01/15:01:59		Entering to the first template 
+2020-09-01/15:02:41		Entering to the first template 
+2020-09-01/15:02:54		Entering to the first template 
+2020-09-01/15:03:11		Entering to the first template 
+2020-09-01/15:03:20		Entering to the first template 
+2020-09-01/15:03:46		Entering to the first template 
+2020-09-01/15:04:01		Entering to the first template 
+2020-09-01/15:04:12		Entering to the first template 
+2020-09-01/15:04:37		Entering to the first template 
+2020-09-01/15:05:06		Entering to the first template 
+2020-09-01/15:05:20		Entering to the first template 
+2020-09-01/15:05:50		Entering to the first template 
+2020-09-01/15:05:50		Entering to the first template 
+2020-09-01/15:07:02		Entering to the first template 
+2020-09-01/15:07:02		Entering to the first template 
+2020-09-01/15:07:02		Entering to the first template 
+2020-09-01/15:07:02		Entering to the first template 
+2020-09-01/15:07:04		Entering to the first template 
+2020-09-01/15:07:04		Entering to the first template 
+2020-09-01/15:07:05		Entering to the first template 
+2020-09-01/15:07:05		Entering to the first template 
+2020-09-01/15:07:05		Entering to the first template 
+2020-09-01/15:10:18		starting user interface
+2020-09-01/15:10:18		setting allowed files extensions for file input
+2020-09-01/15:10:18		initializing flask app
+2020-09-01/15:10:18		Loading the best model for predictions
+2020-09-01/15:10:18		ending of the flask app
+2020-09-01/15:10:20		starting user interface
+2020-09-01/15:10:20		setting allowed files extensions for file input
+2020-09-01/15:10:20		initializing flask app
+2020-09-01/15:10:20		Loading the best model for predictions
+2020-09-01/15:10:21		ending of the flask app
+2020-09-01/15:10:28		Entering to the first template 
+2020-09-01/15:10:47		checking if file is in correct extension
+2020-09-01/15:10:47		model retraining phase entering
+2020-09-01/15:10:47		everythings fine --- model retrainig starts
+2020-09-01/15:11:31		model retrained succesfully
+2020-09-01/15:12:47		starting user interface
+2020-09-01/15:12:47		setting allowed files extensions for file input
+2020-09-01/15:12:47		initializing flask app
+2020-09-01/15:12:47		Loading the best model for predictions
+2020-09-01/15:12:47		ending of the flask app
+2020-09-01/15:12:48		checking if file is in correct extension
+2020-09-01/15:13:07		Entering to the first template 
+2020-09-01/15:13:18		checking if file is in correct extension
+2020-09-01/15:12:48		model retraining phase entering
+2020-09-01/15:12:48		everythings fine --- model retrainig starts
+2020-09-01/15:13:56		model retrained succesfully
+2020-09-01/15:13:18		model retraining phase entering
+2020-09-01/15:13:18		everythings fine --- model retrainig starts
+2020-09-01/15:14:26		model retrained succesfully
+2020-09-01/15:15:13		starting user interface
+2020-09-01/15:15:13		setting allowed files extensions for file input
+2020-09-01/15:15:13		initializing flask app
+2020-09-01/15:15:13		Loading the best model for predictions
+2020-09-01/15:15:14		ending of the flask app
+2020-09-01/15:15:15		starting user interface
+2020-09-01/15:15:15		setting allowed files extensions for file input
+2020-09-01/15:15:15		initializing flask app
+2020-09-01/15:15:16		Loading the best model for predictions
+2020-09-01/15:15:16		ending of the flask app
+2020-09-01/15:15:17		Entering to the first template 
+2020-09-01/15:15:24		checking if file is in correct extension
+2020-09-01/15:15:24		model retraining phase entering
+2020-09-01/15:15:24		everythings fine --- model retrainig starts
+2020-09-01/15:16:10		model retrained succesfully
+2020-09-01/15:16:55		starting user interface
+2020-09-01/15:16:55		setting allowed files extensions for file input
+2020-09-01/15:16:55		initializing flask app
+2020-09-01/15:16:55		Loading the best model for predictions
+2020-09-01/15:16:56		ending of the flask app
+2020-09-01/15:16:57		Entering to the first template 
+2020-09-01/15:17:02		checking if file is in correct extension
+2020-09-01/15:17:02		model retraining phase entering
+2020-09-01/15:17:02		everythings fine --- model retrainig starts
+2020-09-01/15:17:46		model retrained succesfully
+2020-09-01/15:35:10		starting user interface
+2020-09-01/15:35:10		setting allowed files extensions for file input
+2020-09-01/15:35:10		initializing flask app
+2020-09-01/15:35:11		Loading the best model for predictions
+2020-09-01/15:35:11		ending of the flask app
+2020-09-01/15:36:13		starting user interface
+2020-09-01/15:36:13		setting allowed files extensions for file input
+2020-09-01/15:36:13		initializing flask app
+2020-09-01/15:36:13		Loading the best model for predictions
+2020-09-01/15:36:13		ending of the flask app
+2020-09-01/15:37:34		starting user interface
+2020-09-01/15:37:34		setting allowed files extensions for file input
+2020-09-01/15:37:34		initializing flask app
+2020-09-01/15:37:34		Loading the best model for predictions
+2020-09-01/15:37:35		ending of the flask app
+2020-09-01/15:37:36		starting user interface
+2020-09-01/15:37:36		setting allowed files extensions for file input
+2020-09-01/15:37:36		initializing flask app
+2020-09-01/15:37:36		Loading the best model for predictions
+2020-09-01/15:37:37		ending of the flask app
+2020-09-01/15:37:39		Entering to the first template 
+2020-09-01/15:37:43		Now th user will chooose for input type
+2020-09-01/15:37:43		user has choosen for file upload predictions or bulk predictions
+2020-09-01/15:37:48		checking if file is in correct extension
+2020-09-01/15:37:48		Now input file from user
+2020-09-01/15:37:48		Everthings fine ---- prediction starts for file
+2020-09-01/15:37:49		Model retrained succesfully
+2020-09-01/15:38:00		Entering to the first template 
+2020-09-01/15:38:05		checking if file is in correct extension
+2020-09-01/15:38:05		model retraining phase entering
+2020-09-01/15:38:05		everythings fine --- model retrainig starts
+2020-09-01/15:38:46		model retrained succesfully
+2020-09-01/15:42:37		Now th user will chooose for input type
+2020-09-01/15:42:37		user has choosen for file upload predictions or bulk predictions
+2020-09-01/15:42:44		checking if file is in correct extension
+2020-09-01/15:42:44		Now input file from user
+2020-09-01/15:42:44		Everthings fine ---- prediction starts for file
+2020-09-01/15:42:44		Model retrained succesfully
+2020-09-01/15:42:52		Entering to the first template 
+2020-09-01/16:48:41		starting user interface
+2020-09-01/16:48:41		setting allowed files extensions for file input
+2020-09-01/16:48:41		initializing flask app
+2020-09-01/16:48:41		Loading the best model for predictions
+2020-09-01/16:48:41		ending of the flask app
+2020-09-01/16:48:44		starting user interface
+2020-09-01/16:48:44		setting allowed files extensions for file input
+2020-09-01/16:48:44		initializing flask app
+2020-09-01/16:48:44		Loading the best model for predictions
+2020-09-01/16:48:44		ending of the flask app
+2020-09-01/16:48:45		Entering to the first template 
+2020-09-01/16:48:48		Now th user will chooose for input type
+2020-09-01/16:48:48		user has choosen for file upload predictions or bulk predictions
+2020-09-01/16:48:53		checking if file is in correct extension
+2020-09-01/16:48:53		Now input file from user
+2020-09-01/16:48:53		Everthings fine ---- prediction starts for file
+2020-09-01/16:48:55		looks like an error occured in predicting results
+2020-09-01/16:49:00		Entering to the first template 
+2020-09-01/16:49:02		Now th user will chooose for input type
+2020-09-01/16:49:02		User has choosen for single inputs
+2020-09-01/16:49:15		predictions for single inputs starts
+2020-09-01/16:49:15		Input each feature manually
+2020-09-01/16:49:15		all features ar ecorrectly input
+2020-09-01/16:49:15		prediction for single input starts using saved model
+2020-09-01/16:49:15		prediction for single input not succesfull
+2020-09-01/16:49:43		Entering to the first template 
+2020-09-01/16:49:51		checking if file is in correct extension
+2020-09-01/16:49:51		model retraining phase entering
+2020-09-01/16:49:51		everythings fine --- model retrainig starts
+2020-09-01/16:51:19		model retrained succesfully
+2020-09-01/16:51:23		Now th user will chooose for input type
+2020-09-01/16:51:23		user has choosen for file upload predictions or bulk predictions
+2020-09-01/16:51:27		checking if file is in correct extension
+2020-09-01/16:51:27		Now input file from user
+2020-09-01/16:51:27		Everthings fine ---- prediction starts for file
+2020-09-01/16:51:29		Model retrained succesfully
+2020-09-01/16:51:42		starting user interface
+2020-09-01/16:51:42		setting allowed files extensions for file input
+2020-09-01/16:51:42		initializing flask app
+2020-09-01/16:51:43		Loading the best model for predictions
+2020-09-01/16:51:43		ending of the flask app
+2020-09-01/16:51:45		starting user interface
+2020-09-01/16:51:45		setting allowed files extensions for file input
+2020-09-01/16:51:45		initializing flask app
+2020-09-01/16:51:45		Loading the best model for predictions
+2020-09-01/16:51:46		ending of the flask app
+2020-09-01/16:52:50		starting user interface
+2020-09-01/16:52:50		setting allowed files extensions for file input
+2020-09-01/16:52:50		initializing flask app
+2020-09-01/16:52:51		Loading the best model for predictions
+2020-09-01/16:52:51		ending of the flask app
+2020-09-01/16:52:53		starting user interface
+2020-09-01/16:52:53		setting allowed files extensions for file input
+2020-09-01/16:52:53		initializing flask app
+2020-09-01/16:52:53		Loading the best model for predictions
+2020-09-01/16:52:54		ending of the flask app
+2020-09-01/16:52:54		Now th user will chooose for input type
+2020-09-01/16:52:54		user has choosen for file upload predictions or bulk predictions
+2020-09-01/16:52:59		checking if file is in correct extension
+2020-09-01/16:52:59		Now input file from user
+2020-09-01/16:52:59		Everthings fine ---- prediction starts for file
+2020-09-01/16:53:01		looks like an error occured in predicting results
+2020-09-01/16:54:29		checking if file is in correct extension
+2020-09-01/16:54:29		model retraining phase entering
+2020-09-01/16:54:29		everythings fine --- model retrainig starts
+2020-09-01/16:56:11		model retrained succesfully
+2020-09-01/16:56:42		starting user interface
+2020-09-01/16:56:42		setting allowed files extensions for file input
+2020-09-01/16:56:42		initializing flask app
+2020-09-01/16:56:43		Loading the best model for predictions
+2020-09-01/16:56:43		ending of the flask app
+2020-09-01/16:56:43		Now th user will chooose for input type
+2020-09-01/16:56:43		user has choosen for file upload predictions or bulk predictions
+2020-09-01/16:56:48		checking if file is in correct extension
+2020-09-01/16:56:48		Now input file from user
+2020-09-01/16:56:48		Everthings fine ---- prediction starts for file
+2020-09-01/16:56:48		Model retrained succesfully
+2020-09-01/17:10:22		starting user interface
+2020-09-01/17:10:22		setting allowed files extensions for file input
+2020-09-01/17:10:22		initializing flask app
+2020-09-01/17:10:22		Loading the best model for predictions
+2020-09-01/17:10:22		ending of the flask app
+2020-09-01/17:10:24		starting user interface
+2020-09-01/17:10:24		setting allowed files extensions for file input
+2020-09-01/17:10:24		initializing flask app
+2020-09-01/17:10:24		Loading the best model for predictions
+2020-09-01/17:10:25		ending of the flask app
+2020-09-01/17:10:26		Entering to the first template 
+2020-09-01/17:10:28		Now th user will chooose for input type
+2020-09-01/17:10:28		user has choosen for file upload predictions or bulk predictions
+2020-09-01/17:10:33		checking if file is in correct extension
+2020-09-01/17:10:33		Now input file from user
+2020-09-01/17:10:33		Everthings fine ---- prediction starts for file
+2020-09-01/17:10:33		Model retrained succesfully
+2020-09-01/17:10:41		Entering to the first template 
+2020-09-01/17:10:45		model retraining phase entering
+2020-09-01/17:10:52		checking if file is in correct extension
+2020-09-01/17:10:52		model retraining phase entering
+2020-09-01/17:10:52		everythings fine --- model retrainig starts
+2020-09-01/17:10:52		ooops liiks like ther eiis some error in model retraining---------------try again after fixing the error
+2020-09-01/17:11:00		checking if file is in correct extension
+2020-09-01/17:11:45		starting user interface
+2020-09-01/17:11:45		setting allowed files extensions for file input
+2020-09-01/17:11:45		initializing flask app
+2020-09-01/17:11:46		Loading the best model for predictions
+2020-09-01/17:11:46		ending of the flask app
+2020-09-01/17:22:04		starting user interface
+2020-09-01/17:22:04		setting allowed files extensions for file input
+2020-09-01/17:22:04		initializing flask app
+2020-09-01/17:22:04		Loading the best model for predictions
+2020-09-01/17:22:05		ending of the flask app
+2020-09-01/17:22:23		starting user interface
+2020-09-01/17:22:23		setting allowed files extensions for file input
+2020-09-01/17:22:23		initializing flask app
+2020-09-01/17:22:23		Loading the best model for predictions
+2020-09-01/17:22:24		ending of the flask app
+2020-09-01/17:22:26		starting user interface
+2020-09-01/17:22:26		setting allowed files extensions for file input
+2020-09-01/17:22:26		initializing flask app
+2020-09-01/17:22:26		Loading the best model for predictions
+2020-09-01/17:22:27		ending of the flask app
+2020-09-01/17:22:28		Entering to the first template 
+2020-09-01/17:22:47		Now th user will chooose for input type
+2020-09-01/17:22:47		user has choosen for file upload predictions or bulk predictions
+2020-09-01/17:22:58		checking if file is in correct extension
+2020-09-01/17:22:58		Now input file from user
+2020-09-01/17:22:58		Everthings fine ---- prediction starts for file
+2020-09-01/17:22:59		Model retrained succesfully
+2020-09-01/17:23:18		Entering to the first template 
+2020-09-01/17:25:33		starting user interface
+2020-09-01/17:25:33		setting allowed files extensions for file input
+2020-09-01/17:25:33		initializing flask app
+2020-09-01/17:25:33		Loading the best model for predictions
+2020-09-01/17:25:34		ending of the flask app
+2020-09-01/17:41:23		starting user interface
+2020-09-01/17:41:23		setting allowed files extensions for file input
+2020-09-01/17:41:23		initializing flask app
+2020-09-01/17:41:23		Loading the best model for predictions
+2020-09-01/17:41:23		ending of the flask app
+2020-09-01/17:41:25		starting user interface
+2020-09-01/17:41:25		setting allowed files extensions for file input
+2020-09-01/17:41:25		initializing flask app
+2020-09-01/17:41:26		Loading the best model for predictions
+2020-09-01/17:41:26		ending of the flask app
+2020-09-01/17:41:27		Entering to the first template 
+2020-09-01/21:56:49		starting user interface
+2020-09-01/21:56:49		setting allowed files extensions for file input
+2020-09-01/21:56:49		initializing flask app
+2020-09-01/21:56:51		Loading the best model for predictions
+2020-09-01/21:56:52		ending of the flask app
+2020-09-01/21:56:57		starting user interface
+2020-09-01/21:56:57		setting allowed files extensions for file input
+2020-09-01/21:56:57		initializing flask app
+2020-09-01/21:56:57		Loading the best model for predictions
+2020-09-01/21:56:57		ending of the flask app
+2020-09-01/21:57:39		Entering to the first template 
+2020-09-01/21:59:04		Now th user will choose for input type
+2020-09-01/21:59:04		user has choosen for file upload predictions or bulk predictions
+2020-09-01/21:59:05		Entering to the first template 
+2020-09-01/21:59:07		Now th user will choose for input type
+2020-09-01/21:59:07		User has choosen for single inputs

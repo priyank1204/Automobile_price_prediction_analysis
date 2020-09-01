@@ -1,0 +1,17 @@
+2020-09-01/16:35:10		Data splitting is not finished
+2020-09-01/16:35:29		Data splitting is now started
+2020-09-01/16:35:29		Data splitting is not finished
+2020-09-01/16:35:45		Data splitting is now started
+2020-09-01/16:35:45		Data splitting is not finished
+2020-09-01/16:36:03		Data splitting is now started
+2020-09-01/16:36:03		Data is now splitted into training and test set
+2020-09-01/16:38:23		Data splitting is now started
+2020-09-01/16:38:23		Data is now splitted into training and test set
+2020-09-01/16:39:09		Data splitting is now started
+2020-09-01/16:39:09		Data is now splitted into training and test set
+2020-09-01/16:39:42		Data splitting is now started
+2020-09-01/16:39:42		Data is now splitted into training and test set
+2020-09-01/16:41:57		Data splitting is now started
+2020-09-01/16:41:57		Data is now splitted into training and test set
+2020-09-01/16:51:51		Data splitting is now started
+2020-09-01/16:51:51		Data is now splitted into training and test set

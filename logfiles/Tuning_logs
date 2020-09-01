@@ -1,0 +1,42 @@
+2020-09-01/16:54:45		Performing Hyperparameter Tuning on both the models for better results
+2020-09-01/16:54:45		Now we starts tuning******
+2020-09-01/16:54:45		Firstly tungin the xgboost regressor with Grid Search CV
+2020-09-01/16:54:45		Finding best parameeters for our model
+2020-09-01/16:56:20		Now we have the best paramaters for our model
+2020-09-01/16:56:21		Now we fit our model with best paramters 
+2020-09-01/16:56:21		model testing starts
+2020-09-01/16:56:21		model testing completes
+2020-09-01/16:56:21		model validation starts
+2020-09-01/16:56:21		calculationg model metrics
+2020-09-01/16:56:22		Now plotting Distribution plots for the model 
+2020-09-01/16:56:22		Distributions plot is plotted
+2020-09-01/16:56:22		TUNING for xgboost is done
+2020-09-01/16:56:22		Now we starts tuning OUR RANDOMFORESTREGRESOR USING Randomized search cv
+2020-09-01/16:56:23		Finding best parameters for our model
+2020-09-01/16:56:23		we found the best estimaters
+2020-09-01/16:56:23		Now we fit our model with the best paramters
+2020-09-01/16:57:10		Now we predict on the basis of testing data
+2020-09-01/16:57:10		Predictions found
+2020-09-01/16:58:02		Performing Hyperparameter Tuning on both the models for better results
+2020-09-01/16:58:02		Now we starts tuning******
+2020-09-01/16:58:03		Firstly tungin the xgboost regressor with Grid Search CV
+2020-09-01/16:58:03		Finding best parameeters for our model
+2020-09-01/16:59:34		Now we have the best paramaters for our model
+2020-09-01/16:59:34		Now we fit our model with best paramters 
+2020-09-01/16:59:34		model testing starts
+2020-09-01/16:59:35		model testing completes
+2020-09-01/16:59:35		model validation starts
+2020-09-01/16:59:35		calculationg model metrics
+2020-09-01/16:59:35		Now plotting Distribution plots for the model 
+2020-09-01/16:59:36		Distributions plot is plotted
+2020-09-01/16:59:36		TUNING for xgboost is done
+2020-09-01/16:59:36		Now we starts tuning OUR RANDOMFORESTREGRESOR USING Randomized search cv
+2020-09-01/16:59:36		Finding best parameters for our model
+2020-09-01/16:59:37		we found the best estimaters
+2020-09-01/16:59:37		Now we fit our model with the best paramters
+2020-09-01/17:00:20		Now we predict on the basis of testing data
+2020-09-01/17:00:20		Predictions found
+2020-09-01/17:00:20		Calculating model metrics foe the model
+2020-09-01/17:00:21		Now we plot the distribution plots  for the models 
+2020-09-01/17:00:21		Distributiosn plot is plotted
+2020-09-01/17:00:21		loading the best model 

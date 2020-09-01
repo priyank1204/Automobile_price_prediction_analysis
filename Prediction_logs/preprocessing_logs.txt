@@ -1,0 +1,150 @@
+2020-09-01/15:37:48		Now we are starting the preprocessing of the data
+2020-09-01/15:37:48		Now firstly we will set the names for each column i.e column index
+2020-09-01/15:37:48		COLumn index set for each features succesfully
+2020-09-01/15:37:48		Now  we come to the third step of preprocessing i.e removing unnecessary columns
+2020-09-01/15:37:48		Here we are reomving some unnnecessary columns from the data which are of no use in the model building 
+2020-09-01/15:37:48		we have succesfully removed our unnnecessary columns 
+2020-09-01/15:37:48		Now we are entering to third preprocessing step i.e setting correct daat type for each feature
+2020-09-01/15:37:48		Here we are setting required data types for each column and then returning correct dataframe
+2020-09-01/15:37:48		we have succesfully set the correct data type for each column
+2020-09-01/15:37:48		Now we are starting the next step of preprocessing i.e imputation of missing values
+2020-09-01/15:37:48		NOW WE are starting to impute missing values as per reuirements on the columns
+2020-09-01/15:37:48		imputing the numerical columns Nan VALUES WITH MEAN
+2020-09-01/15:37:48		nOW WE ARE IMPUTING THE CATEGORICAL COLUMNS MISSING VALUES WITH MODE
+2020-09-01/15:37:48		IMPUTATION OF MISSING VALUES IS COMPLETED
+2020-09-01/15:37:48		now we have entered in the step of feature removal or adding
+2020-09-01/15:37:48		Now we will add some featurs new and remove some old features
+2020-09-01/15:37:48		adding two new features area and miles
+2020-09-01/15:37:48		removing four old features on their places
+2020-09-01/15:37:48		feature engineering completed succesfully
+2020-09-01/15:37:48		In this step we are gonna scale all numerical features in the same range
+2020-09-01/15:37:48		here we have started scaling the features with MinMaxScaler]
+2020-09-01/15:37:48		Now here we have scaled all the numerical features in the same range
+2020-09-01/15:37:48		Now it is the end step of preprocessing i.e encoding categorical variables
+2020-09-01/15:37:48		here we are using dummy variables  function for encoding categorical features
+2020-09-01/15:37:48		encoding categorical feature done succesfully
+2020-09-01/15:42:44		Now we are starting the preprocessing of the data
+2020-09-01/15:42:44		Now firstly we will set the names for each column i.e column index
+2020-09-01/15:42:44		COLumn index set for each features succesfully
+2020-09-01/15:42:44		Now  we come to the third step of preprocessing i.e removing unnecessary columns
+2020-09-01/15:42:44		Here we are reomving some unnnecessary columns from the data which are of no use in the model building 
+2020-09-01/15:42:44		we have succesfully removed our unnnecessary columns 
+2020-09-01/15:42:44		Now we are entering to third preprocessing step i.e setting correct daat type for each feature
+2020-09-01/15:42:44		Here we are setting required data types for each column and then returning correct dataframe
+2020-09-01/15:42:44		we have succesfully set the correct data type for each column
+2020-09-01/15:42:44		Now we are starting the next step of preprocessing i.e imputation of missing values
+2020-09-01/15:42:44		NOW WE are starting to impute missing values as per reuirements on the columns
+2020-09-01/15:42:44		imputing the numerical columns Nan VALUES WITH MEAN
+2020-09-01/15:42:44		nOW WE ARE IMPUTING THE CATEGORICAL COLUMNS MISSING VALUES WITH MODE
+2020-09-01/15:42:44		IMPUTATION OF MISSING VALUES IS COMPLETED
+2020-09-01/15:42:44		now we have entered in the step of feature removal or adding
+2020-09-01/15:42:44		Now we will add some featurs new and remove some old features
+2020-09-01/15:42:44		adding two new features area and miles
+2020-09-01/15:42:44		removing four old features on their places
+2020-09-01/15:42:44		feature engineering completed succesfully
+2020-09-01/15:42:44		In this step we are gonna scale all numerical features in the same range
+2020-09-01/15:42:44		here we have started scaling the features with MinMaxScaler]
+2020-09-01/15:42:44		Now here we have scaled all the numerical features in the same range
+2020-09-01/15:42:44		Now it is the end step of preprocessing i.e encoding categorical variables
+2020-09-01/15:42:44		here we are using dummy variables  function for encoding categorical features
+2020-09-01/15:42:44		encoding categorical feature done succesfully
+2020-09-01/16:51:27		Now we are starting the preprocessing of the data
+2020-09-01/16:51:27		Now firstly we will set the names for each column i.e column index
+2020-09-01/16:51:27		COLumn index set for each features succesfully
+2020-09-01/16:51:27		Now  we come to the third step of preprocessing i.e removing unnecessary columns
+2020-09-01/16:51:27		Here we are reomving some unnnecessary columns from the data which are of no use in the model building 
+2020-09-01/16:51:27		we have succesfully removed our unnnecessary columns 
+2020-09-01/16:51:27		Now we are entering to third preprocessing step i.e setting correct daat type for each feature
+2020-09-01/16:51:27		Here we are setting required data types for each column and then returning correct dataframe
+2020-09-01/16:51:27		we have succesfully set the correct data type for each column
+2020-09-01/16:51:27		Now we are starting the next step of preprocessing i.e imputation of missing values
+2020-09-01/16:51:27		NOW WE are starting to impute missing values as per reuirements on the columns
+2020-09-01/16:51:27		imputing the numerical columns Nan VALUES WITH MEAN
+2020-09-01/16:51:27		nOW WE ARE IMPUTING THE CATEGORICAL COLUMNS MISSING VALUES WITH MODE
+2020-09-01/16:51:27		IMPUTATION OF MISSING VALUES IS COMPLETED
+2020-09-01/16:51:27		now we have entered in the step of feature removal or adding
+2020-09-01/16:51:27		Now we will add some featurs new and remove some old features
+2020-09-01/16:51:27		adding two new features area and miles
+2020-09-01/16:51:27		removing four old features on their places
+2020-09-01/16:51:27		feature engineering completed succesfully
+2020-09-01/16:51:27		In this step we are gonna scale all numerical features in the same range
+2020-09-01/16:51:27		here we have started scaling the features with MinMaxScaler]
+2020-09-01/16:51:27		Now here we have scaled all the numerical features in the same range
+2020-09-01/16:51:27		Now it is the end step of preprocessing i.e encoding categorical variables
+2020-09-01/16:51:27		here we are using dummy variables  function for encoding categorical features
+2020-09-01/16:51:27		encoding categorical feature done succesfully
+2020-09-01/16:56:48		Now we are starting the preprocessing of the data
+2020-09-01/16:56:48		Now firstly we will set the names for each column i.e column index
+2020-09-01/16:56:48		COLumn index set for each features succesfully
+2020-09-01/16:56:48		Now  we come to the third step of preprocessing i.e removing unnecessary columns
+2020-09-01/16:56:48		Here we are reomving some unnnecessary columns from the data which are of no use in the model building 
+2020-09-01/16:56:48		we have succesfully removed our unnnecessary columns 
+2020-09-01/16:56:48		Now we are entering to third preprocessing step i.e setting correct daat type for each feature
+2020-09-01/16:56:48		Here we are setting required data types for each column and then returning correct dataframe
+2020-09-01/16:56:48		we have succesfully set the correct data type for each column
+2020-09-01/16:56:48		Now we are starting the next step of preprocessing i.e imputation of missing values
+2020-09-01/16:56:48		NOW WE are starting to impute missing values as per reuirements on the columns
+2020-09-01/16:56:48		imputing the numerical columns Nan VALUES WITH MEAN
+2020-09-01/16:56:48		nOW WE ARE IMPUTING THE CATEGORICAL COLUMNS MISSING VALUES WITH MODE
+2020-09-01/16:56:48		IMPUTATION OF MISSING VALUES IS COMPLETED
+2020-09-01/16:56:48		now we have entered in the step of feature removal or adding
+2020-09-01/16:56:48		Now we will add some featurs new and remove some old features
+2020-09-01/16:56:48		adding two new features area and miles
+2020-09-01/16:56:48		removing four old features on their places
+2020-09-01/16:56:48		feature engineering completed succesfully
+2020-09-01/16:56:48		In this step we are gonna scale all numerical features in the same range
+2020-09-01/16:56:48		here we have started scaling the features with MinMaxScaler]
+2020-09-01/16:56:48		Now here we have scaled all the numerical features in the same range
+2020-09-01/16:56:48		Now it is the end step of preprocessing i.e encoding categorical variables
+2020-09-01/16:56:48		here we are using dummy variables  function for encoding categorical features
+2020-09-01/16:56:48		encoding categorical feature done succesfully
+2020-09-01/17:10:33		Now we are starting the preprocessing of the data
+2020-09-01/17:10:33		Now firstly we will set the names for each column i.e column index
+2020-09-01/17:10:33		COLumn index set for each features succesfully
+2020-09-01/17:10:33		Now  we come to the third step of preprocessing i.e removing unnecessary columns
+2020-09-01/17:10:33		Here we are reomving some unnnecessary columns from the data which are of no use in the model building 
+2020-09-01/17:10:33		we have succesfully removed our unnnecessary columns 
+2020-09-01/17:10:33		Now we are entering to third preprocessing step i.e setting correct daat type for each feature
+2020-09-01/17:10:33		Here we are setting required data types for each column and then returning correct dataframe
+2020-09-01/17:10:33		we have succesfully set the correct data type for each column
+2020-09-01/17:10:33		Now we are starting the next step of preprocessing i.e imputation of missing values
+2020-09-01/17:10:33		NOW WE are starting to impute missing values as per reuirements on the columns
+2020-09-01/17:10:33		imputing the numerical columns Nan VALUES WITH MEAN
+2020-09-01/17:10:33		nOW WE ARE IMPUTING THE CATEGORICAL COLUMNS MISSING VALUES WITH MODE
+2020-09-01/17:10:33		IMPUTATION OF MISSING VALUES IS COMPLETED
+2020-09-01/17:10:33		now we have entered in the step of feature removal or adding
+2020-09-01/17:10:33		Now we will add some featurs new and remove some old features
+2020-09-01/17:10:33		adding two new features area and miles
+2020-09-01/17:10:33		removing four old features on their places
+2020-09-01/17:10:33		feature engineering completed succesfully
+2020-09-01/17:10:33		In this step we are gonna scale all numerical features in the same range
+2020-09-01/17:10:33		here we have started scaling the features with MinMaxScaler]
+2020-09-01/17:10:33		Now here we have scaled all the numerical features in the same range
+2020-09-01/17:10:33		Now it is the end step of preprocessing i.e encoding categorical variables
+2020-09-01/17:10:33		here we are using dummy variables  function for encoding categorical features
+2020-09-01/17:10:33		encoding categorical feature done succesfully
+2020-09-01/17:22:58		Now we are starting the preprocessing of the data
+2020-09-01/17:22:58		Now firstly we will set the names for each column i.e column index
+2020-09-01/17:22:58		COLumn index set for each features succesfully
+2020-09-01/17:22:58		Now  we come to the third step of preprocessing i.e removing unnecessary columns
+2020-09-01/17:22:58		Here we are reomving some unnnecessary columns from the data which are of no use in the model building 
+2020-09-01/17:22:58		we have succesfully removed our unnnecessary columns 
+2020-09-01/17:22:58		Now we are entering to third preprocessing step i.e setting correct daat type for each feature
+2020-09-01/17:22:58		Here we are setting required data types for each column and then returning correct dataframe
+2020-09-01/17:22:58		we have succesfully set the correct data type for each column
+2020-09-01/17:22:58		Now we are starting the next step of preprocessing i.e imputation of missing values
+2020-09-01/17:22:58		NOW WE are starting to impute missing values as per reuirements on the columns
+2020-09-01/17:22:58		imputing the numerical columns Nan VALUES WITH MEAN
+2020-09-01/17:22:58		nOW WE ARE IMPUTING THE CATEGORICAL COLUMNS MISSING VALUES WITH MODE
+2020-09-01/17:22:58		IMPUTATION OF MISSING VALUES IS COMPLETED
+2020-09-01/17:22:58		now we have entered in the step of feature removal or adding
+2020-09-01/17:22:58		Now we will add some featurs new and remove some old features
+2020-09-01/17:22:58		adding two new features area and miles
+2020-09-01/17:22:58		removing four old features on their places
+2020-09-01/17:22:58		feature engineering completed succesfully
+2020-09-01/17:22:58		In this step we are gonna scale all numerical features in the same range
+2020-09-01/17:22:58		here we have started scaling the features with MinMaxScaler]
+2020-09-01/17:22:58		Now here we have scaled all the numerical features in the same range
+2020-09-01/17:22:58		Now it is the end step of preprocessing i.e encoding categorical variables
+2020-09-01/17:22:58		here we are using dummy variables  function for encoding categorical features
+2020-09-01/17:22:58		encoding categorical feature done succesfully

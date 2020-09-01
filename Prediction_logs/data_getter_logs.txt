@@ -1,0 +1,18 @@
+2020-09-01/15:37:48		Entering into DATA  GETTER METHOD
+2020-09-01/15:37:48		Now we are starting data gathering from the file source
+2020-09-01/15:37:48		Now we have gathered the data frome the source and converted it into a pandas dataframe
+2020-09-01/15:42:44		Entering into DATA  GETTER METHOD
+2020-09-01/15:42:44		Now we are starting data gathering from the file source
+2020-09-01/15:42:44		Now we have gathered the data frome the source and converted it into a pandas dataframe
+2020-09-01/16:51:27		Entering into DATA  GETTER METHOD
+2020-09-01/16:51:27		Now we are starting data gathering from the file source
+2020-09-01/16:51:27		Now we have gathered the data frome the source and converted it into a pandas dataframe
+2020-09-01/16:56:48		Entering into DATA  GETTER METHOD
+2020-09-01/16:56:48		Now we are starting data gathering from the file source
+2020-09-01/16:56:48		Now we have gathered the data frome the source and converted it into a pandas dataframe
+2020-09-01/17:10:33		Entering into DATA  GETTER METHOD
+2020-09-01/17:10:33		Now we are starting data gathering from the file source
+2020-09-01/17:10:33		Now we have gathered the data frome the source and converted it into a pandas dataframe
+2020-09-01/17:22:58		Entering into DATA  GETTER METHOD
+2020-09-01/17:22:58		Now we are starting data gathering from the file source
+2020-09-01/17:22:58		Now we have gathered the data frome the source and converted it into a pandas dataframe

@@ -1,0 +1,46 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+			<style>
+					body {
+              background-image: url("https://cdn2.iconfinder.com/data/icons/business-office-6/100/upload-01-512.png");
+            background-repeat: no-repeat;
+             background-attachment: fixed;
+              background-position: center;
+             background-size: 500px 700px;
+             text-align: center;
+            padding: 100px;
+                }
+
+
+			</style>
+			
+</head>
+</html>
+
+<title>Python Flask File Upload Example</title>
+<h2>Select a file to upload</h2>
+<p>
+	{% with messages = get_flashed_messages() %}
+	  {% if messages %}
+		<ul class=flashes>
+		{% for message in messages %}
+		  <li>{{ message }}</li>
+		{% endfor %}
+		</ul>
+	  {% endif %}
+	{% endwith %}
+</p>
+<br><form method="post" action="{{ url_for('upload_file')}}" enctype="multipart/form-data">
+    <dl>
+		<p>
+			<input type="file" name="file" autocomplete="off" required>
+		</p>
+    </dl>
+    <p>
+		<br><input type="submit" value="Submit">
+	</p>
+</form>
+

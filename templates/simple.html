@@ -1,0 +1,44 @@
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+
+    <h1> Results for our file records </h1>
+			<style>
+					body {
+              background-image: url("https://pbs.twimg.com/profile_images/1219975794426023936/b4D0Xx0K_400x400.png");
+            background-repeat: no-repeat;
+             background-attachment: fixed;
+             background-size: 300px 100px;
+             text-align: center;
+            padding: 100px;
+                }
+
+
+					table, th, td {
+					  border: 1px solid black;
+					  border-collapse: collapse;
+					}
+					th, td {
+					  padding: 15px;
+					  text-align: left;
+					  border: 1px solid #000;
+  					border-spacing: 0; 
+					}
+					#t01 {
+						  width: 100%;
+						  background-color: red;
+						}
+			</style>
+</head>
+<body>
+
+{% for table in tables %}
+            {{titles[loop.index]}}
+            {{ table|safe }}
+{% endfor %}
+</body>
+</html>

@@ -1,0 +1,23 @@
+2020-09-01/16:29:20		starting of EXploratory data analysis
+2020-09-01/16:29:20		Plotting count plots for make columns
+2020-09-01/16:29:23		Plotting pie charts  for categorical columns
+2020-09-01/16:29:26		Finding corelation between target variable and features
+2020-09-01/16:29:26		choosing the best features among numerical columns
+2020-09-01/16:29:30		8 best features have been chosen
+2020-09-01/16:29:31		plotting scatter plots fro each numerical feature againt the target variable
+2020-09-01/16:29:57		Scattter plots plotted
+2020-09-01/16:29:57		counting unique values in each categorical column 
+2020-09-01/16:29:58		appplying anova test on the categoricla columns to find the best features among them
+2020-09-01/16:29:59		we found the best 2 categorical features
+2020-09-01/16:29:59		removal of bad data done
+2020-09-01/16:29:59		Now binding all the important feautres together
+2020-09-01/16:30:01		Plotting box plots for numerical columns for outliers detection
+2020-09-01/16:30:02		Removing outliers now
+2020-09-01/16:30:04		removal of outliers done
+2020-09-01/16:30:04		Adding some new features and then removing irrelevant features
+2020-09-01/16:30:05		adding and removing features done
+2020-09-01/16:30:05		Now features scaling starts
+2020-09-01/16:30:07		feature scaling is completed
+2020-09-01/16:30:08		Encoding categorical features now
+2020-09-01/16:30:09		all categorical features are encoded now
+2020-09-01/16:30:09		Now we starts our model building******

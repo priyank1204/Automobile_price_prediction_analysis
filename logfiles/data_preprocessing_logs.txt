@@ -1,0 +1,8 @@
+2020-09-01/16:53:54		Started preprocessing
+2020-09-01/16:53:54		Setting columns for the dataset
+2020-09-01/16:53:56		setting correct data types for each columns
+2020-09-01/16:53:57		Now imputing missing values for each columns
+2020-09-01/16:57:15		Started preprocessing
+2020-09-01/16:57:15		Setting columns for the dataset
+2020-09-01/16:57:17		setting correct data types for each columns
+2020-09-01/16:57:18		Now imputing missing values for each columns

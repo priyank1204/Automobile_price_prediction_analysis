@@ -1,0 +1,135 @@
+2020-09-01/15:38:05		Entering into DATA  GETTER METHOD
+2020-09-01/15:38:05		Now we are starting data gathering from the file source
+2020-09-01/15:38:05		Now we have gathered the data frome the source and converted it into a pandas dataframe
+2020-09-01/15:38:05		Now we are starting the preprocessing of the data
+2020-09-01/15:38:05		Now firstly we will set the names for each column i.e column index
+2020-09-01/15:38:05		COLumn index set for each features succesfully
+2020-09-01/15:38:05		This method will return the target variable further for model building 
+2020-09-01/15:38:05		Firstly preprocesing the target variable
+2020-09-01/15:38:05		Now setting indexes back to normal after droping missing values rows from target variable
+2020-09-01/15:38:05		target variable preprocessing done
+2020-09-01/15:38:05		Now  we come to the third step of preprocessing i.e removing unnecessary columns
+2020-09-01/15:38:05		Here we are reomving some unnnecessary columns from the data which are of no use in the model building 
+2020-09-01/15:38:05		we have succesfully removed our unnnecessary columns 
+2020-09-01/15:38:05		Now we are entering to third preprocessing step i.e setting correct daat type for each feature
+2020-09-01/15:38:05		Here we are setting required data types for each column and then returning correct dataframe
+2020-09-01/15:38:05		we have succesfully set the correct data type for each column
+2020-09-01/15:38:05		Now we are starting the next step of preprocessing i.e imputation of missing values
+2020-09-01/15:38:05		NOW WE are starting to impute missing values as per reuirements on the columns
+2020-09-01/15:38:05		imputing the numerical columns Nan VALUES WITH MEAN
+2020-09-01/15:38:05		nOW WE ARE IMPUTING THE CATEGORICAL COLUMNS MISSING VALUES WITH MODE
+2020-09-01/15:38:05		IMPUTATION OF MISSING VALUES IS COMPLETED
+2020-09-01/15:38:05		now we have entered in the step of feature removal or adding
+2020-09-01/15:38:05		Now we will add some featurs new and remove some old features
+2020-09-01/15:38:05		adding two new features area and miles
+2020-09-01/15:38:05		removing four old features on their places
+2020-09-01/15:38:05		feature engineering completed succesfully
+2020-09-01/15:38:05		In this step we are gonna scale all numerical features in the same range
+2020-09-01/15:38:05		here we have started scaling the features with MinMaxScaler]
+2020-09-01/15:38:05		Now here we have scaled all the numerical features in the same range
+2020-09-01/15:38:05		Now it is the end step of preprocessing i.e encoding categorical variables
+2020-09-01/15:38:05		here we are using dummy variables  function for encoding categorical features
+2020-09-01/15:38:05		encoding categorical feature done succesfully
+2020-09-01/15:38:05		Entering into training method 
+2020-09-01/15:38:05		Now we willl firstly split the data into training and testing set
+2020-09-01/15:38:05		Dataset splitting succesfully done
+2020-09-01/15:38:05		Now we will fit the randomforestregressor on the training and test set
+2020-09-01/15:38:05		Randomforestregressr fitted succesfully on the training set
+2020-09-01/15:38:05		Now we will perfrom hyperparameter tuning on the randomforestregressor for better  results
+2020-09-01/15:38:05		Now we are setting best paramterers range
+2020-09-01/15:38:05		Best parameters ranged succesfullly
+2020-09-01/15:38:05		Randomized search cv done on randomforestregressor
+2020-09-01/15:38:46		fitting model with best parameters on the training set
+2020-09-01/15:38:46		saving the best model
+2020-09-01/16:49:51		Entering into DATA  GETTER METHOD
+2020-09-01/16:49:51		Now we are starting data gathering from the file source
+2020-09-01/16:49:51		Now we have gathered the data frome the source and converted it into a pandas dataframe
+2020-09-01/16:49:51		Now we are starting the preprocessing of the data
+2020-09-01/16:49:51		Now firstly we will set the names for each column i.e column index
+2020-09-01/16:49:51		COLumn index set for each features succesfully
+2020-09-01/16:49:51		This method will return the target variable further for model building 
+2020-09-01/16:49:51		Firstly preprocesing the target variable
+2020-09-01/16:49:51		Now setting indexes back to normal after droping missing values rows from target variable
+2020-09-01/16:49:51		target variable preprocessing done
+2020-09-01/16:49:51		Now  we come to the third step of preprocessing i.e removing unnecessary columns
+2020-09-01/16:49:51		Here we are reomving some unnnecessary columns from the data which are of no use in the model building 
+2020-09-01/16:49:51		we have succesfully removed our unnnecessary columns 
+2020-09-01/16:49:51		Now we are entering to third preprocessing step i.e setting correct daat type for each feature
+2020-09-01/16:49:51		Here we are setting required data types for each column and then returning correct dataframe
+2020-09-01/16:49:51		we have succesfully set the correct data type for each column
+2020-09-01/16:49:51		Now we are starting the next step of preprocessing i.e imputation of missing values
+2020-09-01/16:49:51		NOW WE are starting to impute missing values as per reuirements on the columns
+2020-09-01/16:49:51		imputing the numerical columns Nan VALUES WITH MEAN
+2020-09-01/16:49:51		nOW WE ARE IMPUTING THE CATEGORICAL COLUMNS MISSING VALUES WITH MODE
+2020-09-01/16:49:51		IMPUTATION OF MISSING VALUES IS COMPLETED
+2020-09-01/16:49:51		now we have entered in the step of feature removal or adding
+2020-09-01/16:49:51		Now we will add some featurs new and remove some old features
+2020-09-01/16:49:51		adding two new features area and miles
+2020-09-01/16:49:51		removing four old features on their places
+2020-09-01/16:49:51		feature engineering completed succesfully
+2020-09-01/16:49:51		In this step we are gonna scale all numerical features in the same range
+2020-09-01/16:49:51		here we have started scaling the features with MinMaxScaler]
+2020-09-01/16:49:51		Now here we have scaled all the numerical features in the same range
+2020-09-01/16:49:51		Now it is the end step of preprocessing i.e encoding categorical variables
+2020-09-01/16:49:51		here we are using dummy variables  function for encoding categorical features
+2020-09-01/16:49:51		encoding categorical feature done succesfully
+2020-09-01/16:49:51		Entering into training method 
+2020-09-01/16:49:51		Now we willl firstly split the data into training and testing set
+2020-09-01/16:49:51		Dataset splitting succesfully done
+2020-09-01/16:49:51		Now we will fit the randomforestregressor on the training and test set
+2020-09-01/16:49:52		Randomforestregressr fitted succesfully on the training set
+2020-09-01/16:49:52		Now we will perfrom hyperparameter tuning on the randomforestregressor for better  results
+2020-09-01/16:49:52		Now we are setting best paramterers range
+2020-09-01/16:49:52		Best parameters ranged succesfullly
+2020-09-01/16:49:52		Randomized search cv done on randomforestregressor
+2020-09-01/16:51:18		fitting model with best parameters on the training set
+2020-09-01/16:51:19		saving the best model
+2020-09-01/16:54:29		Entering into DATA  GETTER METHOD
+2020-09-01/16:54:29		Now we are starting data gathering from the file source
+2020-09-01/16:54:29		Now we have gathered the data frome the source and converted it into a pandas dataframe
+2020-09-01/16:54:29		Now we are starting the preprocessing of the data
+2020-09-01/16:54:29		Now firstly we will set the names for each column i.e column index
+2020-09-01/16:54:29		COLumn index set for each features succesfully
+2020-09-01/16:54:29		This method will return the target variable further for model building 
+2020-09-01/16:54:29		Firstly preprocesing the target variable
+2020-09-01/16:54:29		Now setting indexes back to normal after droping missing values rows from target variable
+2020-09-01/16:54:29		target variable preprocessing done
+2020-09-01/16:54:29		Now  we come to the third step of preprocessing i.e removing unnecessary columns
+2020-09-01/16:54:29		Here we are reomving some unnnecessary columns from the data which are of no use in the model building 
+2020-09-01/16:54:29		we have succesfully removed our unnnecessary columns 
+2020-09-01/16:54:29		Now we are entering to third preprocessing step i.e setting correct daat type for each feature
+2020-09-01/16:54:29		Here we are setting required data types for each column and then returning correct dataframe
+2020-09-01/16:54:29		we have succesfully set the correct data type for each column
+2020-09-01/16:54:29		Now we are starting the next step of preprocessing i.e imputation of missing values
+2020-09-01/16:54:29		NOW WE are starting to impute missing values as per reuirements on the columns
+2020-09-01/16:54:29		imputing the numerical columns Nan VALUES WITH MEAN
+2020-09-01/16:54:29		nOW WE ARE IMPUTING THE CATEGORICAL COLUMNS MISSING VALUES WITH MODE
+2020-09-01/16:54:29		IMPUTATION OF MISSING VALUES IS COMPLETED
+2020-09-01/16:54:29		now we have entered in the step of feature removal or adding
+2020-09-01/16:54:29		Now we will add some featurs new and remove some old features
+2020-09-01/16:54:29		adding two new features area and miles
+2020-09-01/16:54:29		removing four old features on their places
+2020-09-01/16:54:29		feature engineering completed succesfully
+2020-09-01/16:54:29		In this step we are gonna scale all numerical features in the same range
+2020-09-01/16:54:29		here we have started scaling the features with MinMaxScaler]
+2020-09-01/16:54:29		Now here we have scaled all the numerical features in the same range
+2020-09-01/16:54:29		Now it is the end step of preprocessing i.e encoding categorical variables
+2020-09-01/16:54:29		here we are using dummy variables  function for encoding categorical features
+2020-09-01/16:54:29		encoding categorical feature done succesfully
+2020-09-01/16:54:29		Entering into training method 
+2020-09-01/16:54:29		Now we willl firstly split the data into training and testing set
+2020-09-01/16:54:29		Dataset splitting succesfully done
+2020-09-01/16:54:29		Now we will fit the randomforestregressor on the training and test set
+2020-09-01/16:54:29		Randomforestregressr fitted succesfully on the training set
+2020-09-01/16:54:29		Now we will perfrom hyperparameter tuning on the randomforestregressor for better  results
+2020-09-01/16:54:29		Now we are setting best paramterers range
+2020-09-01/16:54:29		Best parameters ranged succesfullly
+2020-09-01/16:54:29		Randomized search cv done on randomforestregressor
+2020-09-01/16:56:11		fitting model with best parameters on the training set
+2020-09-01/16:56:11		saving the best model
+2020-09-01/17:10:52		Entering into DATA  GETTER METHOD
+2020-09-01/17:10:52		Now we are starting data gathering from the file source
+2020-09-01/17:10:52		Now we have gathered the data frome the source and converted it into a pandas dataframe
+2020-09-01/17:10:52		Now we are starting the preprocessing of the data
+2020-09-01/17:10:52		Now firstly we will set the names for each column i.e column index
+2020-09-01/17:10:52		oops!! column index for the columns can not be succesfully set
