@@ -9,12 +9,12 @@
   * [Dataset details](#Dataset-details)
   * [UI overview](#UI-overview)
   * [Model_Retraining](#Model_Retraining)
+  * [Deployement Link](#Deployement-Link)
   * [Technologies Used](#technologies-used)
 
 
 ### Overview
 This is a python based machine learning project which can predict price of any automobile explicitly for Cars by just entering the features of that vehicle . Here is also an api developed for single or bulk file upload for prediction analysis which has been made with the motto of user friendly interpretations .
-
 
 ## Installation 
  As this is whole python based project so python38 is the base for this model and then for libraries installation i have attached a file named requirements.txt from where you can download all the required libraries in a single go by just typing the following command in the command prompt after installing python
@@ -47,6 +47,12 @@ Here we have also give option for model retraining which can be a very nice way 
 
 this option can be used if after years we have some new records for the automobiles then we can use them and then can predict our car price
 
+
+## Deployement Link
+
+Here we have deployed these application on heroku as well as on AWS ec2 instance but we have stopped aws ec2 instance so providing only heroku app link as below
+
+https://automobile-price-prediction.herokuapp.com/
 
 
 ### Technologies Used
